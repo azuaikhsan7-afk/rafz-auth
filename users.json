@@ -2,10 +2,7 @@
   "rafz": {
     "password": "rafz91"
   },
-  "rafzzzz": {
-    "password": "rafz89",
-    "role": "user",
-    "created": "2026-09-07T19:42:35.852Z",
-    "created_by": "telegram_bot"
+  "admin": {
+    "password": "admin123"
   }
 }
