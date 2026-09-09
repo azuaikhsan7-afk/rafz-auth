@@ -4,5 +4,13 @@
     "expiry": null,
     "expiry_days": 0,
     "updated": "2026-09-09T18:39:48.046Z"
+  },
+  "Rafz": {
+    "password": "rafz678",
+    "role": "user",
+    "expiry": "2026-09-12T18:43:27.607Z",
+    "expiry_days": 3,
+    "created": "2026-09-09T18:43:27.607Z",
+    "created_by": "telegram_bot"
   }
 }
