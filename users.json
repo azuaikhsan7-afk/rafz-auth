@@ -1,10 +1,16 @@
 {
   "rafz": {
     "password": "rafz91",
+    "expiry": null,
+    "expiry_days": 0,
+    "updated": "2026-09-09T18:39:48.046Z"
+  },
+  "admin": {
+    "password": "admin123",
     "role": "user",
-    "expiry": "2026-09-16T18:45:10.025Z",
+    "expiry": "2026-09-16T18:46:14.142Z",
     "expiry_days": 7,
-    "created": "2026-09-09T18:45:10.025Z",
+    "created": "2026-09-09T18:46:14.142Z",
     "created_by": "telegram_bot"
   }
 }
