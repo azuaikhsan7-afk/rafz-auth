@@ -1,5 +1,8 @@
 {
   "rafz": {
-    "password": "rafz91"
+    "password": "rafz91",
+    "expiry": null,
+    "expiry_days": 0,
+    "updated": "2026-09-09T18:37:34.620Z"
   }
 }
