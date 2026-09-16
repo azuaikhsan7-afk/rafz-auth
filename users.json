@@ -4,13 +4,5 @@
     "expiry": null,
     "expiry_days": 0,
     "updated": "2026-09-09T18:39:48.046Z"
-  },
-  "tes": {
-    "password": "tes123",
-    "role": "user",
-    "expiry": "2026-09-16T19:00:01.432Z",
-    "expiry_days": 7,
-    "created": "2026-09-09T19:00:01.432Z",
-    "created_by": "telegram_bot"
   }
 }
